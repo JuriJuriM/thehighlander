@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/thehighlander/static/css/main.102c8127.css",
-    "main.js": "/thehighlander/static/js/main.f5823bb8.js",
+    "main.css": "/thehighlander/static/css/main.3f5dd2dd.css",
+    "main.js": "/thehighlander/static/js/main.4705bd09.js",
+    "static/media/background.jpg": "/thehighlander/static/media/background.3b7c8f2071ccf8655eb5.jpg",
+    "static/media/original.jpg": "/thehighlander/static/media/original.63be66f71e5b51430574.jpg",
+    "static/media/movie.jpg": "/thehighlander/static/media/movie.7ac8046e32647430d56f.jpg",
+    "static/media/titul.jpg": "/thehighlander/static/media/titul.c4a755a94fa82605ddef.jpg",
+    "static/media/poster.jpg": "/thehighlander/static/media/poster.9c845ccfb61d0e804ba0.jpg",
+    "static/media/finishone.jpg": "/thehighlander/static/media/finishone.c35f6ea8eab7172bada1.jpg",
+    "static/media/queen.jpg": "/thehighlander/static/media/queen.35587193d9bb303f9c3d.jpg",
+    "static/media/together.jpg": "/thehighlander/static/media/together.61057fbfae59f52b22cf.jpg",
     "index.html": "/thehighlander/index.html",
-    "main.102c8127.css.map": "/thehighlander/static/css/main.102c8127.css.map",
-    "main.f5823bb8.js.map": "/thehighlander/static/js/main.f5823bb8.js.map"
+    "main.3f5dd2dd.css.map": "/thehighlander/static/css/main.3f5dd2dd.css.map",
+    "main.4705bd09.js.map": "/thehighlander/static/js/main.4705bd09.js.map"
   },
   "entrypoints": [
-    "static/css/main.102c8127.css",
-    "static/js/main.f5823bb8.js"
+    "static/css/main.3f5dd2dd.css",
+    "static/js/main.4705bd09.js"
   ]
 }
