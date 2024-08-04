@@ -1,27 +1,35 @@
 {
   "files": {
-    "main.css": "/thehighlander/static/css/main.07de2c1a.css",
-    "main.js": "/thehighlander/static/js/main.dd1445bd.js",
+    "main.css": "/thehighlander/static/css/main.3cee50ea.css",
+    "main.js": "/thehighlander/static/js/main.b2d6e997.js",
     "static/media/hiswords.png": "/thehighlander/static/media/hiswords.9fe4284f09d7986e3e28.png",
     "static/media/background.jpg": "/thehighlander/static/media/background.3b7c8f2071ccf8655eb5.jpg",
     "static/media/original.jpg": "/thehighlander/static/media/original.63be66f71e5b51430574.jpg",
+    "static/media/worldposter.jpg": "/thehighlander/static/media/worldposter.122f2e591d7b7326aa65.jpg",
     "static/media/continues.jfif": "/thehighlander/static/media/continues.a21c9fdecc0569ccc796.jfif",
+    "static/media/mitting.jpg": "/thehighlander/static/media/mitting.2a0beb5e1a62033db0a9.jpg",
     "static/media/movie.jpg": "/thehighlander/static/media/movie.7ac8046e32647430d56f.jpg",
     "static/media/titul.jpg": "/thehighlander/static/media/titul.c4a755a94fa82605ddef.jpg",
     "static/media/poster.jpg": "/thehighlander/static/media/poster.9c845ccfb61d0e804ba0.jpg",
     "static/media/finishone.jpg": "/thehighlander/static/media/finishone.c35f6ea8eab7172bada1.jpg",
+    "static/media/life100.jpg": "/thehighlander/static/media/life100.ecdf3c4194cc44d10ba4.jpg",
     "static/media/posterone.jpg": "/thehighlander/static/media/posterone.744b2d5726b7571065b8.jpg",
+    "static/media/finishscene.jfif": "/thehighlander/static/media/finishscene.47f58f7087293132c424.jfif",
     "static/media/firstsesone.jpg": "/thehighlander/static/media/firstsesone.66a6633adc089ff0d28f.jpg",
     "static/media/queen.jpg": "/thehighlander/static/media/queen.35587193d9bb303f9c3d.jpg",
     "static/media/together.jpg": "/thehighlander/static/media/together.61057fbfae59f52b22cf.jpg",
+    "static/media/worldwide.jpg": "/thehighlander/static/media/worldwide.d1f85f8f5990640cf7b7.jpg",
+    "static/media/pupil.jpg": "/thehighlander/static/media/pupil.7f77bacea765fab5afb2.jpg",
+    "static/media/secondfinish.jpg": "/thehighlander/static/media/secondfinish.949ebd76d4330d16a331.jpg",
+    "static/media/onlyone.jpg": "/thehighlander/static/media/onlyone.943b6f8cca7b23a90d46.jpg",
     "static/media/tessa.jpg": "/thehighlander/static/media/tessa.ba30fd511f1ba576b991.jpg",
     "static/media/fight.jpeg": "/thehighlander/static/media/fight.2c9ee30eab2ecc5822fb.jpeg",
     "index.html": "/thehighlander/index.html",
-    "main.07de2c1a.css.map": "/thehighlander/static/css/main.07de2c1a.css.map",
-    "main.dd1445bd.js.map": "/thehighlander/static/js/main.dd1445bd.js.map"
+    "main.3cee50ea.css.map": "/thehighlander/static/css/main.3cee50ea.css.map",
+    "main.b2d6e997.js.map": "/thehighlander/static/js/main.b2d6e997.js.map"
   },
   "entrypoints": [
-    "static/css/main.07de2c1a.css",
-    "static/js/main.dd1445bd.js"
+    "static/css/main.3cee50ea.css",
+    "static/js/main.b2d6e997.js"
   ]
 }
