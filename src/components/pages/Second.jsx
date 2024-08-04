@@ -6,6 +6,7 @@ import Firstsesone from '../../assets/img/firstsesone.jpg'
 import Hiswords from '../../assets/img/hiswords.png'
 import Fight from '../../assets/img/fight.jpeg'
 import Tessa from '../../assets/img/tessa.jpg'
+import Secondfinish from '../../assets/img/secondfinish.jpg'
 
 const Second = () => {
     return (
@@ -85,6 +86,15 @@ const Second = () => {
                                 <div className='second__text'>Постоянными спутниками Дункана являются его возлюбленная художница Тэсса Ноэль и магазинный воришка Риччи. Позднее к нему присоединяются таинственные наблюдатели Джо Доусон и старейший из бессмертных Митос.</div>
                             </div>
                         </div>
+                    </div>
+                    <div className='second__titles'>Queen - Who Wants To Live Forever (Official Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_Jtpf8N5IDE?si=qtEuVkdcE_VIw_gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div className='second__continues'>
+                        <img src={Secondfinish} alt='Secondfinish' />
                     </div>
                 </div>
             </div>

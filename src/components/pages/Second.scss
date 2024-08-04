@@ -39,6 +39,25 @@
         font-style: italic;
         color: yellow;
     }
+    &__titles {
+        font-style: italic;
+        color: #6d3939;
+        color: yellow;
+        text-decoration: underline;
+        text-align: center;
+        font-size: 26px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__from {
+        justify-content: center;
+        display: flex;
+    }
+    &__video {
+        width: 775px;
+        height: 442px;
+        margin-bottom: 20px;
+    }
 }
 
 .second:before {
